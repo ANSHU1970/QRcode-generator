@@ -1,0 +1,12 @@
+#cbg{
+background: #6e6e6e;
+}
+#qrcode{
+    height: 30rem;
+    width: auto;
+}
+.cont{
+    margin-top: 5rem;
+    /* margin-left: auto; */
+    margin-right: auto;
+}
