@@ -1,3 +1,7 @@
+*{
+    position:fixed;
+    overflow:hidden;
+}
 #cbg{
 background: #6e6e6e;
 }
